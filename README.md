@@ -14,7 +14,14 @@
    <img width="956" height="436" alt="image" src="https://github.com/user-attachments/assets/f4ebe558-b522-44ae-9014-f5a737282dc6" />
 
    
-3. 
+2. Additional concepts with yaml in git actions
+   i) Define an environment variable 'CUSTOM_VAR' at the workflow level.
+   <img width="944" height="443" alt="image" src="https://github.com/user-attachments/assets/c81895d8-7d10-4814-a52a-c07e9234ea59" />
+   ii) Working with secrets
+   <img width="899" height="424" alt="image" src="https://github.com/user-attachments/assets/ebfc7dd8-3e25-47ea-a148-e6e3ea4a7a48" />
+   iii) Conditional execution
+   <img width="943" height="442" alt="image" src="https://github.com/user-attachments/assets/114ddeef-8a0b-44b2-aa4b-98a1bb59792c" />
+   iv) Using outputs and inputs between steps
+   <img width="934" height="440" alt="image" src="https://github.com/user-attachments/assets/7b0168b9-b8fe-413e-bb95-17491cf9010f" />
 
-
-
+   
